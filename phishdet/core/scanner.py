@@ -1,5 +1,5 @@
 # Coded by HS Devansh Raghav
-# A tool by Whoamisec and Pruapsec
+# A tool by Whoamisec
 import re
 import requests
 import json
