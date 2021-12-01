@@ -33,7 +33,18 @@
 
 <img src="https://github.com/whoamisec75/Phishdet/blob/main/static/phishdet.png" height="500px"  width="500px"/>
 
+```
+usage: phishdet [-h] -u URL [-ls]
+
+optional arguments:
+  -h, --help         show this help message and exit
+  -u URL, --url URL  Specify the URL for scanning
+  -ls, --login-scan  Scan for login keyords
+```
+
 Scan any URL/Link:
 ```
 ▶ phishdet -u http://phishing.ngrok.io
 ```
+
+
