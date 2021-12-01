@@ -28,3 +28,12 @@
 ▶ sudo python3 setup.py install
 ▶ phishdet -h
 ```
+
+## Usage
+
+<img src="https://github.com/whoamisec75/Phishdet/blob/main/static/phishdet.png" height="500px"  width="500px"/>
+
+Scan any URL/Link:
+```
+phishdet -u http://phishing.ngrok.io
+```
