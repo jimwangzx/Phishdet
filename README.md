@@ -35,5 +35,5 @@
 
 Scan any URL/Link:
 ```
-phishdet -u http://phishing.ngrok.io
+▶ phishdet -u http://phishing.ngrok.io
 ```
